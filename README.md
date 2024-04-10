@@ -6,7 +6,7 @@ Challenge2VBAfile.bas is my VBA script
   - The second sub (yearly_change_color) formats the first sub's yearly change column to include colored boxes according to the inputted values. 
   - The last sub (ticker_greatest) inputs a small table including the greatest % increase, decrease, and total volume out of all of the summary table. Lastly, it formats all of the worksheets so that all input data autofits to the column width.
   - Each sub iterates through each worksheet.
-  - Code Source: the majority of the code is my work based on the provided unsolved and solved activities given to us by the bootcamp. The class instructor helped with pointing out redundant code and other questions I had (such as percentage and currency formatting, to which they showed me the macro recording function), and lastly I referenced the Microsoft website in order to find out how to use the autofit columns function. 
+  - Code Source: The code is my work based on the provided unsolved and solved activities given to us by the bootcamp, as well as outside source instruction which will be detailed within the following. The class instructor helped with pointing out redundant code and other questions I had (such as percentage and currency formatting, to which they showed me the macro recording function), and lastly I referenced the Microsoft website in order to find out how to use the autofit columns function. 
 
 There are three screenshots of the excel workbook as well
   - Each screenshot is named according to their worksheet name (2018, 2019, and 2020) and should appropriately display the top of each worksheet which should include all displayed values, column names, and the top of each summary table.
